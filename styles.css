@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+block-size: auto;
+}
+.ever{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    align-items:center;
+}
+.ever .icon img{
+    height: 50px;
+    font-size;
+
+}
+.ever .icon p{
+    color: green;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.icon{
+    display: flex;
+}
+.explore{
+    display: flex;
+    width: ;
+}
+.explore p{
+    margin: 0px 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.log button{
+    margin: 0px 10px;
+}
+
+
+.log .class1{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+}
+.class2{
+    font-size: 20px; 
+    border:5px solid gray;
+    background-color: white;
+    padding: 5px
+}
+
+#note{
+    display: flex;
+    border: 1px solid red;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 50px;
+    justify-content: space-between;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.meet{
+    margin: 40px;
+    text-align: left;
+}
+h1{
+    font-size: 60px;
+
+}
+input{
+    font-size: 30px;
+    margin-top: 25px;
+}
+p1{
+    font-size: 20px;
+}
+.google{
+    display: inline-block;
+    font-size: px;
+}
+.free{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 5px;
+    color: aqua;
+    position: ;
+}
+
+.son{
+    display: flex;
+    justify-content: space-evenly;
+    height: 60px;
+}
+/* .ever img{
+    height: 30px;
+} */
